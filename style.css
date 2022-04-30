@@ -1,0 +1,15 @@
+
+.container {
+  height: 200px;
+  border: red 1px solid;
+}
+
+.first {
+  background: yellow;
+  border: black 1px solid;
+}
+
+.second {
+  background: orange;
+  border: blue 1px solid;
+}
